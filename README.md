@@ -10,7 +10,21 @@ I'm a Computer Science senior at the University of Florida interested in softwar
 
 ## Technologies
 
-C# · ASP.NET Core · Python · FastAPI · React · TypeScript · PostgreSQL · SQL · scikit-learn · pandas
+**Languages:** C#, Python, JavaScript, TypeScript, Java, C++, SQL
+
+**Backend & APIs:** ASP.NET Core, .NET, FastAPI, REST APIs, Entity Framework Core
+
+**Frontend:** React, React Native, HTML, CSS, Vite
+
+**Databases:** PostgreSQL, SQLite, MongoDB, Firebase
+
+**Machine Learning & Data:** pandas, NumPy, scikit-learn, Jupyter, Matplotlib, Seaborn, data preparation, exploratory data analysis, feature engineering, model selection, cross-validation, regularization, and model evaluation
+
+**ML Models:** K-nearest neighbors, decision trees, linear regression, and logistic regression
+
+**Generative AI:** Retrieval-Augmented Generation (RAG), Model Context Protocol (MCP), prompt engineering, Anthropic Claude API, Mistral, and Gemini API
+
+**Infrastructure & Tools:** Git, GitHub, Docker, Terraform, Terragrunt, GitHub Actions, Vercel, Figma
 
 ## Connect
 
